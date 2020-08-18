@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`text getInfo should return the correct info for an article 1`] = `
+Object {
+  "companyName": "Microsoft",
+  "isTalkingAboutCompany": true,
+  "keywordToSentences": Object {
+    "Office 365": Array [],
+    "Surface Laptop": Array [
+      "Johannesburg, South Africa: 15 July, 2020 – Microsoft has announced the expansion of its award-winning Surface device range into South Africa, with the introduction of the Surface Pro 7 and Surface Laptop 3 for both commercial and consumer customers",
+      "The Surface Pro 7 and Surface Laptop 3 continue the brand’s tradition of best-in-class productivity, security, mobility and speed, and introduce new processors and modern connectivity options in a world of remote work and learning",
+      "The new Surface Laptop 3 makes a statement though a thin, light, and elegant design, offering rich tone-on-tone colour options and new metal keyboard finishes",
+      "Surface Laptop 3 is now available in two sizes – 13.5-inch and 15-inch and features a vibrant PixelSense™ Display touchscreen",
+      "The Surface Laptop 3 15-inch consumer offering is powered by the AMD Ryzen™ Surface Edition processor",
+      "“At each iteration, we elevate the entire Microsoft ecosystem, ensuring our devices evolve into a line of products that cover the widest possible range of individual and business use cases – versatile, adaptable, powerful and secure to enable remote working or schooling.”
+Adds Gary Pickford, CCO at Tarsus Distribution, “We’re excited to introduce the Surface Laptop 3 and Surface Pro 7 products to the South African market, offering a new, Windows-powered alternative in the premium mobile segment",
+      "The models we are providing to our channel offer a blend of speed, style and versatility for notebook and tablet users looking for a Windows device with a high-quality finish and a device that balances security, aesthetics, speed and versatility.”
+Recommended retail pricing for the Surface Pro 7 starts at R17 999.00, and for the Surface Laptop 3 starts at R22 999.00",
+    ],
+    "Surface Pro": Array [
+      "Johannesburg, South Africa: 15 July, 2020 – Microsoft has announced the expansion of its award-winning Surface device range into South Africa, with the introduction of the Surface Pro 7 and Surface Laptop 3 for both commercial and consumer customers",
+      "The Surface Pro 7 and Surface Laptop 3 continue the brand’s tradition of best-in-class productivity, security, mobility and speed, and introduce new processors and modern connectivity options in a world of remote work and learning",
+      "As with previous Surface devices, we have delivered best-in-class upgrades for our new additions to the family, to ensure that individuals and organisations have access to the optimal performance they need to achieve more in the office, classroom, or out in the field.”
+The Surface Pro 7 takes Microsoft’s iconic 2-in-1 design to the next level, with a faster and more versatile device for professionals on the go",
+      "Powered by a 10th Generation Intel® Core™ processor, Fast Charging, all-day battery1 and Instant On, the Surface Pro 7 provides modern connectivity with USB-C™ and USB-A ports",
+      "“At each iteration, we elevate the entire Microsoft ecosystem, ensuring our devices evolve into a line of products that cover the widest possible range of individual and business use cases – versatile, adaptable, powerful and secure to enable remote working or schooling.”
+Adds Gary Pickford, CCO at Tarsus Distribution, “We’re excited to introduce the Surface Laptop 3 and Surface Pro 7 products to the South African market, offering a new, Windows-powered alternative in the premium mobile segment",
+      "The models we are providing to our channel offer a blend of speed, style and versatility for notebook and tablet users looking for a Windows device with a high-quality finish and a device that balances security, aesthetics, speed and versatility.”
+Recommended retail pricing for the Surface Pro 7 starts at R17 999.00, and for the Surface Laptop 3 starts at R22 999.00",
+    ],
+    "Windows": Array [
+      "“At each iteration, we elevate the entire Microsoft ecosystem, ensuring our devices evolve into a line of products that cover the widest possible range of individual and business use cases – versatile, adaptable, powerful and secure to enable remote working or schooling.”
+Adds Gary Pickford, CCO at Tarsus Distribution, “We’re excited to introduce the Surface Laptop 3 and Surface Pro 7 products to the South African market, offering a new, Windows-powered alternative in the premium mobile segment",
+      "The models we are providing to our channel offer a blend of speed, style and versatility for notebook and tablet users looking for a Windows device with a high-quality finish and a device that balances security, aesthetics, speed and versatility.”
+Recommended retail pricing for the Surface Pro 7 starts at R17 999.00, and for the Surface Laptop 3 starts at R22 999.00",
+    ],
+  },
+  "products": Array [
+    "Surface Pro",
+    "Surface Laptop",
+    "Office 365",
+    "Windows",
+  ],
+}
+`;

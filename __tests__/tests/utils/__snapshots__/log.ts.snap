@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`log logResult Log should match snapshot 1`] = `
+"Is the article talking about the company Microsoft ? true
+
+product1 sentences:
+  *  sentence1.
+  *  sentence2.
+
+"
+`;
